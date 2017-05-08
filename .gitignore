@@ -1,0 +1,12 @@
+.idea
+*.iml
+node_modules*
+.sass-cache
+client/bower_components
+public/uploads
+public
+.tmp
+client/bower_components
+dist
+npm-debug.log
+debug.log
